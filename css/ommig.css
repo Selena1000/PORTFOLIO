@@ -132,9 +132,15 @@
   .hvemerjeg {
     padding-bottom: 3em;
   }
+
+  .blomst {
+    width: 170px;
+    top: -77px;
+    right: -85px;
+  }
   .blomst2 {
     width: 40%;
-    top: 8%;
+    top: 10%;
     left: 50%;
   }
 
@@ -170,14 +176,13 @@
   }
 
   .lidtommig {
-    text-align: left;
     padding-left: 20px;
   }
 
   .blomst3,
   .blomst4,
   .blomst5 {
-    left: -45px;
+    left: -15px;
     top: -35px;
     width: 75px;
   }
